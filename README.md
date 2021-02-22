@@ -2,8 +2,7 @@
 
 ## About
  
-The repository contains interpolation tables for the collinear parton
-distribution functions in the nucleon, and the collinear parton to hadron
+The repository contains interpolation tables for the the collinear parton to hadron
 fragmentation functions. The interpolation codes and grids are available in:
 
 * [python](https://github.com/QCDHUB/JAM16/tree/master/python)
